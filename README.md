@@ -5,7 +5,7 @@ I'm Damien 🐙, high school student, passionate about dev and cycling !
 - 📙 HTML, CSS, JS
 - ⚛ ReactJS
 - 🧪 Svelte
-- 🛢🔋 NodeJS
+- � NodeJS
 - 🐍 Python
 
 <!--
