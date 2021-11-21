@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Damien 🐙, high school student, passionate about dev and cycling !
+- 🚀 I'm working principally on BpfMgr
+## What I learn
+- 📙 HTML, CSS, JS
+- ⚛ ReactJS
+- 🧪 Svelte
+- 🛢🔋 NodeJS
+- 🐍 Python
 
 <!--
 **DamienSn/DamienSn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
